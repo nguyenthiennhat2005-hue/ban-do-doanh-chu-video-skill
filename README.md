@@ -4,7 +4,7 @@
 
 [**Tải toàn bộ gói ZIP**](https://github.com/nguyenthiennhat2005-hue/ban-do-doanh-chu-video-skill/releases/latest/download/ban-do-doanh-chu-video-skill-2026-11-25.zip) · [Trang phát hành](https://github.com/nguyenthiennhat2005-hue/ban-do-doanh-chu-video-skill/releases/latest)
 
-Giải nén rồi mở `ban-do-doanh-chu-video/SKILL.md` để sử dụng. Gói có **130 tệp**, khoảng **32.9 MiB**, gồm:
+Giải nén rồi mở `ban-do-doanh-chu-video/SKILL.md` để sử dụng. Gói có **131 tệp**, khoảng **32.9 MiB**, gồm:
 
 - Skill tổng hợp và **4 skill nguồn** đã nạp: viết Reels kinh doanh, sub/chuyển cảnh của kênh, SeeTheLight dựng video và SeeTheLight kịch bản–Vbee.
 - **42 kịch bản**, các bản hook/thân bài lịch sử và quy trình kể chuyện tập trung 15–18 giây đầu.
